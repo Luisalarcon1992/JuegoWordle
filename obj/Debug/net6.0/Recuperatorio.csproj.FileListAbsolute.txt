@@ -1,0 +1,15 @@
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\bin\Debug\net6.0\Recuperatorio.exe
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\bin\Debug\net6.0\Recuperatorio.deps.json
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\bin\Debug\net6.0\Recuperatorio.runtimeconfig.json
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\bin\Debug\net6.0\Recuperatorio.dll
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\bin\Debug\net6.0\Recuperatorio.pdb
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.csproj.AssemblyReference.cache
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.AssemblyInfoInputs.cache
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.AssemblyInfo.cs
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.csproj.CoreCompileInputs.cache
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.dll
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\refint\Recuperatorio.dll
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.pdb
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\Recuperatorio.genruntimeconfig.cache
+D:\Facultad\3er cuatrimestre\prog3\proyecto1\Recuperatorio\obj\Debug\net6.0\ref\Recuperatorio.dll
